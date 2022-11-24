@@ -1,8 +1,8 @@
 抖音算法 | [Tiktok Algorithm](README_tt.md)
 
 
-# x-ladon, x-argus, x-gorgon, x-khronos, 设备注册
-抖音、Tiktok算法，x-argus, x-ladon, x-gorgon, x-khronos算法，设备注册算法  
+# x-ladon, x-argus, x-gorgon, x-khronos, x-helios x-medusa, 设备注册
+抖音、Tiktok算法，x-argus, x-ladon, x-gorgon, x-khronos, x-helios x-medusa, 算法，设备注册算法  
 
 
 ## 抖音算法
