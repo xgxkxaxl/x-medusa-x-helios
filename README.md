@@ -1,80 +1,91 @@
-Tiktok Algorithm | [抖音算法](README_dy.md)
+抖音算法 | [Tiktok Algorithm](README_tt.md)
 
 
-# x-ladon, x-argus, x-gorgon, x-khronos, device register, 
-douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register algorithm
+# x-ladon, x-argus, x-gorgon, x-khronos, 设备注册
+抖音、Tiktok算法，x-argus, x-ladon, x-gorgon, x-khronos算法，设备注册算法  
 
 
-## Tiktok Algorithm
+## 抖音算法
 
-### Device Register
-<img src="tt_reg.png">
+### 设备注册算法
+<img src="dy_reg.png">
 
 ```json
 {
-  "device_id": "7164949621905769990",
-  "iid": "7164950672638756614"
+  "device_id": "3109861000223965",
+  "iid": "101597186886039"
 }
 ```
 
-
-### x-gorgon x-khronos algorithm
-<img src="tt_xg.png">
+### x-gorgon x-khronos 算法
+<img src="dy_xg.png">
 
 ```json
 {
-  "x-gorgon": "0404d0e40001d975d7931704a5760372721ccf34c4326740115",
-  "x-khronos": "1668220317"
+  "x-gorgon":"0404d0e40001399639b51704a5760372721ccf34c432f6c46b04",
+  "x-khronos":"1668220955"
 }
 ```
 
-### x-argus x-ladon algorithm
-<img src="tt_xa.png">
+### x-argus x-ladon 算法
+<img src="dy_xa.png">
 
 ```json
 {
-  "x-gorgon": "0404e0910000e04d58f3676567790fegdofe55909d969e2e8089",
-  "x-khronos": "1668220361",
-  "x-ladon": "OwauaDJE5WAY95WKixQbm2H7jHWdantuoki5bYVLawi8aLP",
-  "x-argus": "s/HU3WbNr6Jib4yik614CNILMCvCfUkcQkXYATOZJffPchtZVF9gO/×n|KdrsIQOQ|TiPtssLgRnSnQdNPh+fb0z5aguOj4xvk5acihJhJzKdaz/00NxSrhsFdWhy2B2S×9n7ARIPeJYGZMJOsHJBytkNYb9WY6916fgoVxf8X20AEYyAWmS8P87/p/VpfhI0ym0DRsCrrk7j2/uhB8x+JHel5c5mu4Hb3+ybZ8ggCROkH3YiFQnyvlickOrV7aR/sYUcIJTDpMuZQd0Qp+UUJP"
+  "x-gorgon": "040420d20000021445bcfe5add2bofbc146cddeec93d4C7Tee16",
+  "x-khronos":"1668220980", 
+  "x-ladon": "FCZIXGQS3bZV2RS4FSQvKOZGVf5MWQTognqLavIU+U8SxFzy",
+  "x-argus": "/IHPTDpxbRwDIQpzNmuHQkP511j9c/LiGfvc12VsOojpgRbPcwaC10oVU5U3kWNWSiGePsc8TcY×Q4NqoAb5T6+|fi5AFhSEptuRTk2bzm8p79n2wMnSUwkIHH5spFaKmHXm38bXWSMgYGEG6Xh|4/8tRZNtQU2kX5vbFR9ujAQH244IbM8TNy5|gvmZqdY9IT4 ngrsNi3vfvy9lcdo2n8TYiRxE9tWIwwKTWV7Utgcu7bWRmkylhozbNkCNrDiT40="
+}
+```
+
+### x-helios x-medusa 算法
+<img src="dy_xhxm.png">
+
+```json
+{
+  "X-Gorgon": "040420d200004bc9e588fe5add2b0fbc146cddeec93d449e1882",
+  "X-Khronos": "1669307954",
+  "X-Ladon": "RigiJqni4OfOuvE++PxZOmF505lyMEeRo9PdTOqFGWczukOb",
+  "X-Argus": "+tCfci2PcvUBqdKn8bO1fAAPrVHy5Uz3VJpzDtOh47JBqbpN0Uky+35p6bsjquE/ltAx7N2jwrC5a6ZhwDmkSwqKZdx8RkBFMiA7Z0sDLJlqpcEUflzS96q0IQagfrgGwfAyXTnZzhioz52393S8ptXULjNIU2JmCbBvtEvbAQmmW6SwwV3iZdnrvtJ8ztG4NpYFSaB/Que6Hh2Xz+0DdIQe03XABBCldlb+50LNi/cdLpQlPSPdr1MigCug6WnG8G4=",
+  "X-Helios": "89+VkWEmUR/xo2Fw0LL45U2GNg5VgOBx9X/oId/mCoguni7O",
+  "X-Medusa": "191/gRvBUDlt8keoXA3BB41JM6NTuCtLsdDWZc4kp1Pbwp+m+y2CLNwnvdjBZOJfOGMhop6kidacPKTE2O0hJWjzJJvk2QjM1hO1VPByNqZzZZq3aLKoti+iANOu2z9Jt3xErJHXltg3X3uuVtCGqqekPs13buCF1UbpoPRBeGayn8XMmmuEdhmUIWG+k8Sdb6il1483vjBK1/zv6EzlQDW6+It8bPq1u3ReIfQdmo0nUwVQ7pc5vWyRcF1SOeMzqC0/XIRivQ8D/B/zlwkaRq3JyjZ4pVnAi1oEfkbs1eyb27pCPmLdE19nNUJCHiNn7dBt+GHvpYAdSY8HQVf3mijBkEATyI=="
 }
 ```
 
 ### live data
-<img src="tt_live.png">
+<img src="dy_live.png">
 
 ```
-<Enter> debay928 entered then room
-<Enter> hoangquynh200493 entered then room
-<Enter> i_am_mildz entered then room
-<Enter> rchrandr entered then room
-<Enter> rotax25394352 entered then room
-<Enter> zamigale entered then room
-<Enter> ershi_7 entered then room
-<Enter> l009.a entered then room
-<Enter> viximcmxciv_ entered then room
-<Enter> sarofahvandjavu entered then room
-<Enter> duyquoc200 entered then room
-<Enter> mwah12270130 entered then room
-<Enter> 000k2513 entered then room
-<Enter> najuni7 entered then room
-<Enter> toriani0 entered then room
-<Enter> lasso.0f.truth entered then room
-<Enter> eleanor_7aan entered then room
-<Enter> rymarthine73 entered then room
-<Enter> sirikorn538 entered then room
-<Comment> brndnvalen: can i buy a pecel?
-<Enter> anu110_ entered then room
-<Enter> shou969 entered then room
-<Enter> inside_zzick entered then room
-<Enter> edionwindster entered then room
-<Enter> emilyeww entered then room
+<来了>金一斗来了
+<来了>该醒酲啦来了
+<来了>^_^^_^^_^小赵来了
+<排行>观看人数：7894，总人数：281760
+<来了>一秃一如来来了
+<来了>李来了
+<来了>巩义市盛飞机械设备有限公司来了
+<来了>用户6757598356195来了
+<来了>大鱼儿来了
+<来了>章好礼甜来了
+<来了>阿伦来了
+<排行>观看人数：7912，总人数：281760
+<来了>91555来了
+<评论>枫叶说:什么湖
+<来了>等待来了
+<来了>勇哥Q08来了
+<来了>八点半烧🔥烤来了
+<来了>周春信来了
+<来了>王友伦来了
+<来了>玄武3911来了
+<排行>观看人数：7890，总人数：282281
+<评论>E切随缘说:你怎么啊下去帮帮忙
+<来了>用户5221199113853来了
+<来了>执子之手，与子偕老来了
+<来了>唯美式相恋来了
 ```
 
-#### user info test
-<img src="tt_userinfo.gif">
+#### 用户详情测试
+<img src="dy_userinfo.gif">
 
 
-
-# [Contact Telegram](https://t.me/xgxkxaxl)
-
+# [联系交流](https://t.me/xgxkxaxl)
